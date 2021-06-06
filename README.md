@@ -16,3 +16,8 @@ torch==1.8.1
 * https://www.sciencedirect.com/science/article/pii/S0893608012000822 
 * https://github.com/klicperajo/gdc
 * https://github.com/vlivashkin/pygkernels
+
+### Results
+
+![Cora](https://user-images.githubusercontent.com/50063452/120926505-19261200-c718-11eb-9b08-57f8742a6fbc.png)
+![Citeseer](https://user-images.githubusercontent.com/50063452/120926509-1c210280-c718-11eb-8e9f-b1119a0ce8ec.png)
