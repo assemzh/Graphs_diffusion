@@ -1,8 +1,8 @@
-# Graphs_diffusion
+# Graphs diffusion
 
 ## Optimizing Graph Learning using Diffusion
 
-In these experiments I compare different diffusion kernels for for Graph diffusion Convolution
+In these experiments I compare different diffusion kernels for Graph diffusion Convolution
 
 Original paper: Diffusion Improves Graph Learning by Klicpera et al.
 
